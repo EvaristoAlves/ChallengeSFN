@@ -15,7 +15,7 @@ Desenvolvido uma REST API que utilizará os dados do projeto [Space Flight News]
 
 
 - Como instalar e usar o projeto (instruções)
-- Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
+
 
 ## Challenge by coodesh
 
