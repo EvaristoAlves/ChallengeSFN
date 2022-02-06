@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2729X6nS/pqzTboPyUyORugSd2zu+EXiqnjR3Z4rp+g=",
+  "Source": "challenge_sfn",
+  "BasePath": "_content/challenge_sfn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
